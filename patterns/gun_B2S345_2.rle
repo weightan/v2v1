@@ -1,4 +1,3 @@
-#CXRLE Pos=78,-12 Gen=267
-x = 24, y = 16, rule = B25/S345
-11bo5bo$bo7bo3bobo3bo$3o6bo3bobo3bo$bo9bo5bo2$14bo$14bo$12b2ob2o$14bo$
-14bo2$bo9bo5bo$3o6bo3bobo3bo$bo7bo3bobo3bo2bo$11bo5bo3b3o$22bo!
+#CXRLE Pos=8,5 Gen=525
+x = 19, y = 17, rule = B25/S345
+bo$3o$bo$9bo$8b3o$8b3o3$8b3o3$8b3o$8b3o$9bo$bo15bo$3o13b3o$bo15bo!
